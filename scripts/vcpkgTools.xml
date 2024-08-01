@@ -143,7 +143,13 @@
         <url>https://github.com/ip7z/7zip/releases/download/24.06/7z2406-extra.7z</url>
         <sha512>6b88a761f7cc8b8affc074b24750bcdc65cc3ab18d127c8bfdd1eca953d43e21558eb1137c4b934689990564d7d24cf14e249a773dc1e5ddb7316b10d73682f8</sha512>
         <archiveName>7z2406-extra.7z</archiveName>
-     </tool>
+    </tool>
+    <tool name="7zip_exe" os="windows">
+        <version>24.07</version>
+        <exeRelativePath>7zr.exe</exeRelativePath>
+        <url>https://github.com/ip7z/7zip/releases/download/24.07/7zr.exe</url>
+        <sha512>814dcbc1d43bc037dadc2f3f67856dd790b15fc1b0c50fa74a169c8cc02cdc79d44f1f10e200ef662eee20cd6b5ca646ec4e77673e3fe3cb7dfb7649243f6e99</sha512>
+    </tool>
     <tool name="aria2" os="windows">
         <version>1.37.0</version>
         <exeRelativePath>aria2-1.37.0-win-64bit-build1\aria2c.exe</exeRelativePath>
