@@ -150,12 +150,6 @@
         <url>https://github.com/ip7z/7zip/releases/download/24.07/7zr.exe</url>
         <sha512>814dcbc1d43bc037dadc2f3f67856dd790b15fc1b0c50fa74a169c8cc02cdc79d44f1f10e200ef662eee20cd6b5ca646ec4e77673e3fe3cb7dfb7649243f6e99</sha512>
     </tool>
-    <tool name="aria2" os="windows">
-        <version>1.37.0</version>
-        <exeRelativePath>aria2-1.37.0-win-64bit-build1\aria2c.exe</exeRelativePath>
-        <url>https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip</url>
-        <sha512>6d78405da9cf5639dbe8174787002161b8124d73880fb57cc8c0a3a63982f84e46df4e626990c58f23452965ad925f0d37cb9147e99b25c3d7ca0ea49602f34d</sha512>
-        <archiveName>aria2-1.37.0-win-64bit-build1.zip</archiveName>
     </tool>
     <tool name="aria2" os="osx">
         <version>1.35.0</version>
